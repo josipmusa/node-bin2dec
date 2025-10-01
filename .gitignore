@@ -1,0 +1,29 @@
+# Node.js dependencies
+node_modules/
+
+# TypeScript compiled output
+dist/
+build/
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Environment variables
+.env
+.env.local
+.env.*.local
+
+# MacOS system files
+.DS_Store
+
+# WebStorm / IntelliJ IDEA files
+.idea/
+*.iml
+
+# Optional: coverage reports
+coverage/
+
+# Optional: temporary files
+*.tsbuildinfo
